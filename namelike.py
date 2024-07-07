@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 words=pd.read_csv("data/amharic_names.csv")
 
 ###### Method-1 ######
-# bigram method(counting)
+# count method(counting)
 
 am_words=words["in_am"].to_list()
 
