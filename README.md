@@ -1,6 +1,6 @@
 ### Amharic Namelike Generation
 
-This repository contains two methods to generate Amharic names from a dataset of existing names. The first method uses a bigram model based on counting character pairs, and the second method utilizes a simple neural network with one layer. This is designed to be lightweight and straightforward, avoiding excessive complexity with numerous options and settings.
+This repository contains two bigram methods to generate Amharic names from a dataset of existing names. The first method uses a count model based on counting character pairs, and the second method utilizes a simple neural network with one layer. This is designed to be lightweight and straightforward, avoiding excessive complexity with numerous options and settings.
 
 
 #### Requirements
@@ -50,7 +50,7 @@ The log probability of 2.2 indicates the average likelihood of the generated nam
 #### Conclusion
 This section showcases the results and insights gained from our name generation experiments, highlighting the effectiveness of our approach in generating meaningful names.
 
-##### Bigram Model
+##### count Model
 
 ```
 ኢምዮሳክቦዳሌዌለጶዪከሚልዳረሴዮሲጴ-ሓል.
@@ -74,7 +74,7 @@ This section showcases the results and insights gained from our name generation 
 ```
 
 
-##### Neural Network Model
+##### Very simple Neural Network Model
 
 ```
 እጅፍብ.
