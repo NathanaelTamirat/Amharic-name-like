@@ -1,6 +1,6 @@
 ### Amharic Namelike Generation
 
-This repository contains two bigram methods to generate Amharic names from a dataset of existing names. The first method uses a count model based on counting character pairs, and the second method utilizes a simple neural network with one layer. This is designed to be lightweight and straightforward, avoiding excessive complexity with numerous options and settings.
+This repository contains mutiple bigram methods to generate Amharic names from a dataset of existing names. The first method uses a count model based on counting character pairs, and the second method utilizes a straightforward approach with a single-layer neural network. I also incorporated an MLP and achieved a favorable loss function, ensuring effectiveness while maintaining simplicity and avoiding excessive complexity.
 
 
 #### Requirements
@@ -101,4 +101,42 @@ This section showcases the results and insights gained from our name generation 
 ```
 
 
+##### using a Multi Layer Perceptron(MLP's)
 
+
+After training my MLP, I achieved a significantly reduced loss value. However, the model's performance suffered from overfitting, and since I couldn't acquire more data, addressing this issue effectively has become challenging.
+
+To overcome over fitting:
+
+![overfitting](imgs/overfit_underit.jpeg)
+
+visualization of the embeded chars in the 2d Dimension
+
+![embeded](imgs/viz_embed.png)
+
+
+finally the samplinf from MLP:
+
+```
+ሸማያ.
+አሸንር.
+ታማ.
+አሰፋ.
+ዩል.
+ደበበ.
+ሳምና.
+ጣባ.
+ያራጥያ.
+ኤልያና.
+ማፌል.
+በርጤሜዎስ.
+ፀሌን.
+ሐሬኤል.
+ጵዛር.
+ኤልያድያ.
+አውግስጦስ.
+እስጢፋኖስ.
+ይዛቸው.
+አልማ.
+
+```
