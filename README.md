@@ -115,7 +115,7 @@ visualization of the embeded chars in the 2d Dimension
 ![embeded](imgs/viz_embed.png)
 
 
-finally the samplinf from MLP:
+finally the sampling from MLP:
 
 ```
 ሸማያ.
@@ -138,5 +138,30 @@ finally the samplinf from MLP:
 እስጢፋኖስ.
 ይዛቸው.
 አልማ.
+
+```
+sampling from optimized mlp for better result:
+
+```
+ሰበንያ.
+አንድነት.
+አስሮን.
+ዩላ.
+ደራል.
+ሳኦል.
+አክሱም.
+ጥህ.
+ኤንያ.
+አማፌችትቤት.
+ሰለሚኤል.
+ሐማን.
+ኤላ.
+ጵርቅላ.
+ቅልዓ.
+ሳስታውለሓ.
+ነሩስሳኬል.
+ይይድዊን.
+አኦራ.
+ጥበቡ.
 
 ```
