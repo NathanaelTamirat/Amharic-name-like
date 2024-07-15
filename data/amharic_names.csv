@@ -26,7 +26,7 @@ e,Adiel,ዓዲዔል
 m,Adin,ዓዲን
 e,Adina,አዲና
 m,Adnah,ዓድና
-m,Adoni-bezek,አዶኒቤዜቅ
+m,Adonibezek,አዶኒቤዜቅ
 m,Adonijah,አዶንያስ
 e,Adriel,ኤስድሪኤል
 m,Aeneas,ኤንያ
@@ -385,8 +385,8 @@ m,Festus,ፊስጦስ
 m,Fasil,ፋሲል
 m,Fedlu,ፈድሉ
 m,Fegegta,ፈገግታ
-m,Fekre-Mariam,ፍቅረ-ማርያም
-m,Fekre-Selasie,ፍቅረ-ስላሴ
+m,FekreMariam,ፍቅረማርያም
+m,FekreSelasie,ፍቅረስላሴ
 m,Fikadu,ፍቃዱ
 m,Fikremariam,ፍቅረማርያም
 m,Fikru,ፍቅሩ
@@ -416,12 +416,12 @@ e,Gomer,ጎሜር
 f,Gelila,ገሊላ
 f,Genet,ገነት
 m,Gashaw,ጋሻው
-m,Gebre-Egziabher,ገብረ-እግዚያቤር
-m,Gebre-Giorgis,ገብረ-ጊዮርጊስ
-m,Gebre-Mariam,ገብረ-ማርያም
-m,Gebre-Meskel,ገብረ-መስቀል
-m,Gebre-Micheal,ገበረ-ሚኬኤል
-m,Gebre-Selassie,ገብረ-ስላሴ
+m,GebreEgziabher,ገብረእግዚያቤር
+m,GebreGiorgis,ገብረጊዮርጊስ
+m,GebreMariam,ገብረማርያም
+m,GebreMeskel,ገብረመስቀል
+m,GebreMicheal,ገበረሚኬኤል
+m,GebreSelassie,ገብረስላሴ
 m,Gedion,ጌዲኦን
 m,Gemechu,ገመቹ
 m,Getachew,ጌታቸው
@@ -488,8 +488,8 @@ m,Habtamu,ሀብታሙ
 m,Habte,ሀብቴ
 m,Hagos,ሀጎስ
 m,Haile,ሃይሌ
-m,Haile-Mariam,ኃይለ-ማርያም
-m,Haile-Selassie,ኃይለ-ስላሴ
+m,HaileMariam,ኃይለማርያም
+m,HaileSelassie,ኃይለስላሴ
 m,Hailu,ሃይሌ
 m,Hassen,ሀሰን
 m,Henok,ሄኖክ
@@ -523,7 +523,7 @@ m,Isaiah,ኢሳይያስ
 f,Iscah,ዮስካ
 e,Ishbah,ይሽባ
 e,Ishbak,የስቦቅ
-e,Ishbi-Benob,ይሽቢብኖብ
+e,IshbiBenob,ይሽቢብኖብ
 m,Ishi,ይሽኢ
 m,Ishiah,ይሺያ
 m,Ishijah,ይሺያ
@@ -1072,7 +1072,7 @@ f,Samrawit,ሳምራዊት
 f,Sara,ሳራ
 f,Saron,ሳሮን
 f,Seble,ሰብለ
-f,Seble-Wongel,ሰብለወንጌል
+f,SebleWongel,ሰብለወንጌል
 f,Sefanit,ሰፋኒት
 f,Selam,ሰላም
 f,Selamawit,ሰላማዊት
